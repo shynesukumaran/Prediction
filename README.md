@@ -1,5 +1,4 @@
-# Prediction
-Prediction of Photovoltaic Output Power
+# Prediction of Photovoltaic Output Power
 
 The main aim of the project is to design a Machine Learning model to predict the output power of a Photovoltaic(PV) system.
 
